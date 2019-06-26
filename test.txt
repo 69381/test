@@ -5,4 +5,4 @@
 5555
 6666
 git remote add origin 
-Creating a new branch is quick.
+Creating a new branch is quick. and simple
